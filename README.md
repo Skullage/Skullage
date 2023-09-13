@@ -1,10 +1,5 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="100"/>
-  <div id="badges">
-    <a href="https://vk.com/skullage">
-      <img src="https://img.shields.io/badge/ВКонтакте-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Значок ВКонтакте"/>
-    </a>
-  </div>
   <img src="https://komarev.com/ghpvc/?username=Skullage&style=flat-square&color=blue&label=ПРОСМОТРЫ+ПРОФИЛЯ" alt="Счетчик просмотров"/>
   <h1>
     Привет!
@@ -21,7 +16,7 @@
 
 Я frontend-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: Мне 23 года.
+- :telescope: Мне 24 года.
 
 - :mortar_board: Закончил Уфимский государственный нефтяной технический университет.
 
