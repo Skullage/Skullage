@@ -16,7 +16,7 @@
 
 Я frontend-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: Мне 24 года.
+- :telescope: Мне 25 лет.
 
 - :mortar_board: Закончил Уфимский государственный нефтяной технический университет.
 
